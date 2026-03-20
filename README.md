@@ -66,8 +66,8 @@ question_bank_api/
 
 ```bash
 # Clone and enter the project
-git clone <your-repo-url>
-cd question_bank_api
+git clone https://github.com/boobesh2912/QB_AI_AGENT
+cd QB_AI_AGENT
 
 # Install dependencies
 uv sync
